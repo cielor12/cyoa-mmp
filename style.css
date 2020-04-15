@@ -1,0 +1,25 @@
+.medium {
+    width:25%;
+}
+
+.big {
+    width:50%;
+}
+
+body {
+    background: #adebad;
+    padding: 0 10%;
+}
+
+.button {
+    background-color: #99bbff;
+    color: black;
+    border: 2px solid #00802b; 
+    border-radius: 8px;
+    text-decoration: none;
+    padding: 10px;
+}
+
+a:hover {
+  background-color: #555;
+}
