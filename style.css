@@ -23,3 +23,9 @@ body {
 a:hover {
   background-color: #555;
 }
+
+p, h1, a {
+    font-size: 50px;
+    font-style: oblique;
+    font-family: Comic Sans MS;
+}
