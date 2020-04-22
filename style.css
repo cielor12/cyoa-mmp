@@ -27,10 +27,10 @@ a:hover {
 p, a {
     font-size: 50px;
     font-style: oblique;
-    font-family: 'Comic Sans MS';
+    font-family: "Gill Sans", sans-serif;
 }
 
 h1 {
     font-style: oblique;
-    font-family: 'Comic Sans MS';
+    font-family: "Gill Sans", sans-serif;
 }
