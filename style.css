@@ -24,7 +24,7 @@ a:hover {
   background-color: #555;
 }
 
-p, a {
+p, a, li {
     font-size: 30px;
     font-style: oblique;
     font-family: "Gill Sans", sans-serif;
